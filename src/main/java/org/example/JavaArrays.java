@@ -27,7 +27,7 @@ public class JavaArrays {
         // Call to error
         System.out.println("Values: "+nums);
 
-        // Index is a position on array always starts with 0cd 
+        // Index is a position on array always starts with 0
         System.out.println("Value 1 & index 0: "+data[0]);
     }
 }
