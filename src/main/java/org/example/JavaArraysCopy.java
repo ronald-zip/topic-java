@@ -28,8 +28,5 @@ public class JavaArraysCopy {
             System.out.println("Copynums array[] "+ copynums[i]);
             i++;
         }
-
-        //for(int c : copynums)
-        //    System.out.println("Copynums array[] "+ c);
     }
 }
